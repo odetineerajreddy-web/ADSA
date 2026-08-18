@@ -1,4 +1,4 @@
-from typing import List
+'''from typing import List
 def spiralOrder( matrix: List[List[int]]) -> List[int]:
         top=0
         row,col=len(matrix),len(matrix[0])
@@ -66,3 +66,4 @@ def generateMatrix(n: int) -> List[List[int]]:
 n=3
 print(generateMatrix(0,n))
 
+'''
